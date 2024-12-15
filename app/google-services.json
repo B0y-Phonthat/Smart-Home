@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "295111637355",
+    "firebase_url": "https://smart-home-a72e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-home-a72e9",
+    "storage_bucket": "smart-home-a72e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295111637355:android:857ea2ff1d026d4034342e",
+        "android_client_info": {
+          "package_name": "com.example.homekit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295111637355-lsc9losfg8pu7dtibss35prt1eqttgg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHoc89poEQFqiv7Reo11DufB9Ki5yISI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295111637355-lsc9losfg8pu7dtibss35prt1eqttgg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295111637355:android:bde84fec0934808e34342e",
+        "android_client_info": {
+          "package_name": "com.example.homekitz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295111637355-lsc9losfg8pu7dtibss35prt1eqttgg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHoc89poEQFqiv7Reo11DufB9Ki5yISI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295111637355-lsc9losfg8pu7dtibss35prt1eqttgg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
