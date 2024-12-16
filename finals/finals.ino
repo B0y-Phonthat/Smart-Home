@@ -9,14 +9,14 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "X11L5NE"
-#define WIFI_PASSWORD "Concentration"
+#define WIFI_SSID "YOUR_WIFI"
+#define WIFI_PASSWORD "YOUR_PASSWD"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyB7ofyN_Xo0zdrwMnd7yVpnnnQ5guBEvcU"
+#define API_KEY "FIREBASE_API"
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://smart-home-a72e9-default-rtdb.asia-southeast1.firebasedatabase.app/" 
+#define DATABASE_URL "Firebase_URL" 
 
 //Define Firebase Data object
 FirebaseData fbdo;
